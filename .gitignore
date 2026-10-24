@@ -1,0 +1,8 @@
+# Ignore external cloned games repo
+html-css-javascript-games/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
